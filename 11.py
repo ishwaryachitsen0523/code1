@@ -8,4 +8,4 @@ for j in range(len(n)-1):
 if k==3:
     print(k)
 else:
-    print(k+(k-1)//2)
+    print(k+1(k-1)//2)
